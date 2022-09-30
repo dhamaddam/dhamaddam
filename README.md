@@ -1,16 +1,22 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**dhamaddam/dhamaddam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Saddam Husein S**.\
 
-Here are some ideas to get you started:
+Saya seorang **Full Stack Developer** di [Appdorms].\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mari ikuti akun saya di [Linkedin](https://www.linkedin.com/in/saddamdham/).
+
+```mermaid
+graph LR
+A[Think the Idea] -- Documenting --> B((Coding))
+A --> C(Designing UI/UX)
+B --> D{Publishing}
+C --> D
+```
+
+<p align="left">
+<a href="https://github.com/dhamaddam">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhamaddam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhamaddam&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
